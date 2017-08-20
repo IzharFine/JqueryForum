@@ -1,0 +1,101 @@
+﻿.well
+{
+    text-align:center;
+    width:80%;
+}
+
+table
+{
+    text-align:left;
+}
+
+div
+{
+    text-align:center;
+}
+
+
+
+.btn
+{
+    display:inline-block;
+
+}
+
+.btn-success
+{
+    width:100%;
+}
+
+.btn-default
+{
+    width:60%;
+    display:inline-block;
+    margin-left:20%;
+}
+
+
+#enterBtn
+{
+    margin-left:20%;
+    width:50%;
+}
+
+#output
+{
+    text-align:center;
+}
+
+.hLights
+{
+    font-weight:bold;
+    text-decoration:underline;
+}
+
+.well
+{
+    text-align:left;
+}
+
+#output
+{
+    width:90%;
+}
+
+.container
+{
+    width:100%;
+    margin-left:5%;
+}
+
+#addSpot
+{
+    margin-left:12%;
+}
+
+h2
+{
+    /*background-color:green;*/
+    text-align:center;
+    color:black;
+    font-weight:bold;
+    text-shadow:2px 2px white;
+}
+
+#prv
+{
+    font-weight:bold;
+    color:red;
+}
+
+#pub
+{
+    font-weight:bold;
+    color:green;
+}
+
+body
+{
+    background-color:#EEE8AA;
+    text-align:center;
+}

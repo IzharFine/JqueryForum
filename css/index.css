@@ -1,0 +1,20 @@
+﻿body {
+    background-image: url('../imgs/entrance598x1064.jpg');
+    background-repeat: no-repeat;
+    background-size:auto;
+    text-align:center;
+
+}
+
+.btn
+{
+    width:30%;
+    height:100px;
+}
+
+input
+{
+    width:50%;
+    height:50px;
+    font-size:20px;
+}
